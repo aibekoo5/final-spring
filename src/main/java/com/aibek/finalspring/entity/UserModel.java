@@ -24,7 +24,6 @@ import java.util.List;
 @NoArgsConstructor
 @Table(name = "t_user")
 public class UserModel implements UserDetails {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

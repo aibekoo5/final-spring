@@ -1,6 +1,5 @@
 package com.aibek.finalspring.dto;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
